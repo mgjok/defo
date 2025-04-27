@@ -1,0 +1,75 @@
+{
+    "is_debug": false,
+    "is_loop": false,
+    "mode1_purchase_btn_location": 
+        [ 0.8214, 0.7954 ],
+        "mode2_purchase_btn_location"
+        :
+        [ 0.8917, 0.8398 ],
+        "item_name_range"
+        :
+        [
+            102,
+            498,
+            109,
+            33
+        ],
+        "mode1_item_price_range"
+        :
+        [
+            1650,
+            855,
+            107,
+            32
+        ],
+        "mode2_item_price_range"
+        :
+        [ 1626, 840, 53, 35 ],
+        "mode1_location"
+        :
+        [
+            0.1214,
+            0.4731
+        ],
+        "mode2_location"
+        :
+        [
+            0.2786,
+            0.2361
+        ],
+        "ideal_price"
+        :
+        2000000,
+        "mode2_ideal_price"
+        :
+        100,
+        "mode2_200_location"
+        :
+        [
+            0.9099,
+            0.7741
+        ],
+        "mode2_plus_location"
+        :
+        [
+            0.9292,
+            0.7722
+        ],
+        "keys"
+        :
+        [
+            {
+                "name": "自定义方案4",
+                "floating_percentage_range": 0.0,
+                "ideal_price": 2000000,
+                "position": [
+                    0.1141,
+                    0.4787
+                ],
+                "want_buy": 1
+            }
+        ],
+        "mode"
+        :
+        2
+}
